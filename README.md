@@ -5,7 +5,7 @@ de uma determinada pagina na Web e tranformar em arquivo JSON onde a partir dess
 
 Habilidades Aprendidas ou Melhoradas:
 
-FRAMEWORK: REACT.js, NODE.JS
+FRAMEWORK: REACT.js, NODE.JS,
 Linguagem: JavaScript
 Outras: CSS, HTML 
 Integracoes: Frontend com Backend, iniciar API servidor local, renderizar pagina com produtos da API.
